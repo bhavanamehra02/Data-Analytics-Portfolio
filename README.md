@@ -23,4 +23,3 @@ Hands-on analysis of structured operational datasets to clean data, analyze perf
 - Location: Cambridge, Ontario, Canada
 - Open to Remote & Hybrid Roles
 - LinkedIn: (add your LinkedIn URL here)
-
